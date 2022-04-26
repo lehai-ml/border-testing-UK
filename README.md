@@ -7,3 +7,5 @@ Files description:
 * analyses_code/preprocessing.py : all the preprocessing and visualising functions
 * analyses_code/wayback_webscrapping.py: Function to scrape Korean daily positive cases data.
 * dataset/preprocessed_data/* : Folders containing preprocessed data for each country. Used in the 2_UK_comparison.ipynb
+
+[!output_plots/CanadavsUK.png]
