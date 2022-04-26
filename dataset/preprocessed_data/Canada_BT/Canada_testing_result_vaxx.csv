@@ -1,0 +1,13 @@
+Date,Total tests completed,Test positive,Percent positive,Vaccinated
+"Jul5-Aug8,2021",285248.0,2196.0,0.77,Unvaccinated/Partially
+"Aug9-Sep9,2021",287287.0,2930.0,1.02,Unvaccinated/Partially
+"Sep10-Nov27,2021",306428.0,2022.0,0.66,Unvaccinated/Partially
+"Nov28-Dec25,2021",90310.0,2283.0,2.53,Unvaccinated/Partially
+"Dec26-Jan29,2022",109681.0,15834.0,14.44,Unvaccinated/Partially
+"Jan30-Feb19,2022",22650.0,1252.0,5.53,Unvaccinated/Partially
+"Jul5-Aug8,2021",324762.0,585.0,0.18,Vaccinated
+"Aug9-Sep9,2021",102338.0,205.0,0.2,Vaccinated
+"Sep10-Nov27,2021",341249.0,546.0,0.16,Vaccinated
+"Nov28-Dec25,2021",335064.0,4115.0,1.23,Vaccinated
+"Dec26-Jan29,2022",598998.0,43604.0,7.28,Vaccinated
+"Jan30-Feb19,2022",289767.0,7032.0,2.43,Vaccinated
