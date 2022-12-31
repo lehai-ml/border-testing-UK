@@ -17,7 +17,6 @@ Files description:
 * dataset/preprocessed_data/* : Folders containing preprocessed data for each country. Used in the 2_UK_comparison.ipynb
 
 Results:
-
 ![Border testing result](./output_plot/CanadavsUK.png "Figure 1. Border testing result between multiple countries")
 Figure 1. Border testing result between multiple countries.
 ![Border moving test](./output_plot/border_moving_testing_ppt.png "Figure 2. Moving average")
@@ -25,4 +24,4 @@ Figure 2. Border testing moving average 70day incidence per 100 000 inhabitants
 ![Border test variants](./output_plot/border_test.png "Figure 3. Variants")
 Figure 3. Variants comparison between UK and Canada
 ![Countries of arrivals](./output_plot/countries_of_interest.png "Figure 4. Countries of arrivals")
-Figure 4. Countries of arrivals to the UK
+Figure 4. Countries of arrivals to Israel vs. the UK
